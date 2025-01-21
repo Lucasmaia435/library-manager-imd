@@ -1,16 +1,13 @@
 # library_manager
 
-A new Flutter project.
 
-## Getting Started
+FEATURE - QUEM FEZ
 
-This project is a starting point for a Flutter application.
+TELA DE LOGIN - MATHEUS LAMEQUE
+TELA DE DELETE - MATHEUS LAMEQUE
+TELA DE CRIAÇÃO  - LUCAS MAIA
+TELA DE ATUALIZAÇÃO - LUCAS MAIA  
 
-A few resources to get you started if this is your first Flutter project:
+TELA DE DETALHES E LISTAGEM - AMBOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Arquivo de banco de dados - em conjunto, cada um fez a query que precisava para a sua tela, lucas fez de update e create, matheus de delete. Listagem e busca por id foram feitas em conjunto.
